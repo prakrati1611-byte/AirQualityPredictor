@@ -1,7 +1,9 @@
 streamlit
-joblib
-numpy
 pandas
+numpy
 matplotlib
-scikit-learn
+seaborn
 plotly
+pydeck
+requests
+joblib
